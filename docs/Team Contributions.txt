@@ -1,0 +1,16 @@
+Ahmed Aly: 
+-Fixed some wiring on the car
+- The Github Repo, component list, initial software architecture diagrams
+- Contributed to the code and trial
+
+Michael Aziz: 
+-Hardware schematic diagram (Kicad)
+-Contributed to the code and troubleshooting
+
+Yasmin
+- Conducted trial-and-error testing on the code
+- ⁠Observed and recorded each unsuccessful run
+
+Marian
+- ⁠Identified logic errors through trial-and-error testing
+- ⁠observed car behavior
